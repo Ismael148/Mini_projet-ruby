@@ -27,18 +27,18 @@ Ce projet consiste à enregistrer des emails  dans un fichier JSON , CSV et dans
 
 ##Usage
 
-Pour pouvoir lancer correctement le programme sur le terminal , il faut que nous nous mettions tout d'abord dans le dossier ou il y a l'extension *.rb *
+Pour pouvoir lancer correctement le programme sur le terminal , il faut que nous nous mettions tout d'abord dans le dossier ou il y a l'extension *.rb *. Prenons l'exemple ci dessous :
 
 >~/Google_Spreadsheet/JSON_scrapper/lib$ 
 
 
-et ensuite taper la commande  suivant
+et ensuite tape  la commande  suivant
 
->~/Google_Spreadsheet/JSON_scrapper/lib *$bundle exec ruby scrapper.rb*
+>*$bundle exec ruby scrapper.rb*
 
 ##Warning
 
-L'enregistrement des emails dans chaque pourrait être interrompu si votre connexion est lent.
+L'enregistrement des emails dans chaque fichier pourrait être interrompu si votre connexion est lent.
 
 
 
