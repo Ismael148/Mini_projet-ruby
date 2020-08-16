@@ -23,7 +23,10 @@ Ensuite, on les mets à jour grâce à la commande :
 
 ##Instruction
 
-Ce projet consiste à enregistrer des emails  dans un fichier JSON , CSV et dans le spreadsheet de Google. 
+Ce projet consiste à enregistrer des emails via un site  dans un fichier JSON , CSV et dans le spreadsheet de Google. 
+
+Si l'utilisateur souhaite enregistrer les emails scrappées dans un fichier spreadsheet Voici le lien du fichier  <a href ="https://docs.google.com/spreadsheets/d/152kqnXBMHvuWKCSiTd_G_tly13wFB0aFuU-LZPD09BQ/edit#gid=0">Google
+
 
 ##Usage
 
@@ -34,11 +37,11 @@ Pour pouvoir lancer correctement le programme sur le terminal , il faut que nous
 
 et ensuite tape  la commande  suivant
 
->*$bundle exec ruby scrapper.rb*
+>*$ruby scrapper.rb
 
 ##Warning
 
-L'enregistrement des emails dans chaque fichier pourrait être interrompu si votre connexion est lent.
+L'enregistrement des emails dans chaque fichier pourrait être interrompu si votre connexion est lent pour cela j'ai limité le nombre  des emails scrapées afin de ne pas trop abimer la connexion.
 
 
 
