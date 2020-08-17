@@ -30,24 +30,23 @@ Si l'utilisateur souhaite enregistrer les emails scrappées dans un fichier spre
 
 ##Usage
 
-Pour pouvoir lancer correctement le programme sur le terminal , il faut que nous nous mettions tout d'abord dans le dossier ou il y a l'extension *.rb *. Prenons l'exemple ci dessous :
+Pour pouvoir lancer correctement le programme sur le terminal , il faut que nous nous mettions tout d'abord dans le dossier où on veut lancer dans le terminal. Prenons l'exemple ci dessous :
 
->~/Google_Spreadsheet/JSON_scrapper/lib$ 
+>~/Google_Spreadsheet/JSON_scrapper$
 
 
 et ensuite tape  la commande  suivant
 
->*$ruby scrapper.rb
+>*$ruby lib/scrapper.rb
 
 ##Warning
 
-L'enregistrement des emails dans chaque fichier pourrait être interrompu si votre connexion est lent pour cela j'ai limité le nombre  des emails scrapées afin de ne pas trop abimer la connexion.
-
+L'enregistrement des emails dans chaque fichier pourrait être interrompu si votre connexion est lent .
 
 
 
 ##Author
 
-Zo Lalaina ismael Rajaoharimanana
-https://github.com/Ismael148
+<a href ="https://github.com/Ismael148">Zo Lalaina ismael Rajaoharimanana
+
 
